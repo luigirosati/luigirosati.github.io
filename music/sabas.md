@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sabas
+title: sabas
 ---
 
 <p class="page-title"><a href="/music">music</a> / sabas</p>
@@ -15,7 +15,7 @@ title: Sabas
 </div>
 
 <div class="project-links">
-  <a href="https://www.instagram.com/sabas_arte/" target="_blank" rel="noopener">Instagram</a>
+  <a href="https://www.instagram.com/sabas_arte/" target="_blank" rel="noopener">instagram</a>
   <a href="https://open.spotify.com/intl-it/artist/5oZUvJDf3jEETujLYUYj44?si=rn82i1VwTsGh6ODZ2zje9Q" target="_blank" rel="noopener">spotify</a>
   <a href="https://music.apple.com/us/artist/sabas/1896652638" target="_blank" rel="noopener">apple music</a>
   <a href="https://dischiobliqui.bandcamp.com/album/terre-emerse" target="_blank" rel="noopener">bandcamp</a>
