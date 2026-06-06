@@ -145,6 +145,74 @@ main {
   letter-spacing: 0.04em;
 }
 
+/* ── Music grid (cards) ── */
+
+.music-grid {
+  display: flex;
+  gap: 1.4rem;
+  flex-wrap: wrap;
+  margin-top: 0.6rem;
+}
+
+.music-card {
+  flex: 1 1 200px;
+  border: 1px solid var(--border);
+  padding: 2.4rem 1.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text);
+  letter-spacing: 0.04em;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.music-card:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.music-card__name {
+  font-size: 1rem;
+}
+
+/* ── Project page ── */
+
+.project-text {
+  margin-bottom: 2rem;
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.project-player {
+  margin-bottom: 2rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1.4rem;
+}
+
+.project-player iframe {
+  display: block;
+  width: 100%;
+  border: 0;
+}
+
+.project-links {
+  display: flex;
+  gap: 1.4rem;
+  flex-wrap: wrap;
+  font-size: 0.9rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1.2rem;
+}
+
+.project-links a {
+  color: var(--muted);
+}
+
+.project-links a:hover {
+  color: var(--accent);
+}
+
 /* ── Footer ── */
 
 footer {
