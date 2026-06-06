@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1><a href="/">luigi rosati</a></h1>
+    <nav>
+      <a href="/activities"{% if page.url contains 'activities' %} class="active"{% endif %}>activities</a>
+      <a href="/teaching"{% if page.url contains 'teaching' %} class="active"{% endif %}>teaching</a>
+      <a href="/music"{% if page.url contains 'music' %} class="active"{% endif %}>music</a>
+      <a href="/files/cv.pdf" target="_blank" rel="noopener">cv</a>
+      <a href="/photo"{% if page.url contains 'photo' %} class="active"{% endif %}>photo</a>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <a href="https://www.instagram.com/sconchigliosozeta" target="_blank" rel="noopener">instagram</a>
+  </footer>
+</body>
+</html>

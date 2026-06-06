@@ -1,0 +1,189 @@
+---
+---
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg:      #f3f6f4;
+  --text:    #10021f;
+  --accent:  #3a0a57;
+  --muted:   #9ba1a6;
+  --border:  #d4d9d6;
+  --font:    Monaco, Consolas, "Lucida Console", monospace;
+}
+
+html {
+  font-size: 15px;
+}
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ── Header ── */
+
+header {
+  max-width: 860px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2.4rem 1.5rem 1.2rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--border);
+}
+
+header h1 {
+  font-size: 1.1rem;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+}
+
+header h1 a {
+  color: var(--text);
+}
+
+header h1 a:hover {
+  text-decoration: none;
+  color: var(--accent);
+}
+
+nav {
+  display: flex;
+  gap: 1.4rem;
+  flex-wrap: wrap;
+  font-size: 0.9rem;
+}
+
+nav a {
+  color: var(--muted);
+}
+
+nav a:hover,
+nav a.active {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* ── Main ── */
+
+main {
+  max-width: 860px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2.4rem 1.5rem;
+  flex: 1;
+}
+
+/* ── Home layout ── */
+
+.home-grid {
+  display: flex;
+  gap: 2.4rem;
+  align-items: flex-start;
+  margin-bottom: 2.8rem;
+}
+
+.profile-photo {
+  width: 180px;
+  min-width: 180px;
+  border-radius: 4px;
+  display: block;
+}
+
+.home-bio {
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.home-bio p + p {
+  margin-top: 0.9rem;
+}
+
+/* ── Bandcamp ── */
+
+.bandcamp-wrap {
+  margin-top: 2rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1.4rem;
+}
+
+.bandcamp-wrap iframe {
+  display: block;
+  width: 100%;
+  border: 0;
+}
+
+/* ── Content pages ── */
+
+.page-title {
+  font-size: 1rem;
+  font-weight: normal;
+  color: var(--muted);
+  margin-bottom: 1.8rem;
+  letter-spacing: 0.04em;
+}
+
+/* ── Footer ── */
+
+footer {
+  max-width: 860px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1.2rem 1.5rem 2rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+  border-top: 1px solid var(--border);
+}
+
+footer a {
+  color: var(--muted);
+}
+
+footer a:hover {
+  color: var(--accent);
+}
+
+/* ── Responsive ── */
+
+@media (max-width: 600px) {
+  header {
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+
+  nav {
+    gap: 1rem;
+  }
+
+  .home-grid {
+    flex-direction: column;
+    gap: 1.4rem;
+  }
+
+  .profile-photo {
+    width: 130px;
+    min-width: 130px;
+  }
+}
