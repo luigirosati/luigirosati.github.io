@@ -10,13 +10,16 @@
 <body>
   <header>
     <h1><a href="/">luigi rosati</a></h1>
+    {% unless page.url == '/' %}
     <nav>
-      <a href="/activities"{% if page.url contains 'activities' %} class="active"{% endif %}>activities</a>
+      <a href="/">home</a>
+      <a href="/research"{% if page.url contains 'research' %} class="active"{% endif %}>research</a>
       <a href="/teaching"{% if page.url contains 'teaching' %} class="active"{% endif %}>teaching</a>
       <a href="/music"{% if page.url contains 'music' %} class="active"{% endif %}>music</a>
       <a href="/files/cv.pdf" target="_blank" rel="noopener">cv</a>
       <a href="/photo"{% if page.url contains 'photo' %} class="active"{% endif %}>photo</a>
     </nav>
+    {% endunless %}
   </header>
 
   <main>

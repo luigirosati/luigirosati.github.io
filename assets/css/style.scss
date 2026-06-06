@@ -140,6 +140,33 @@ main {
   text-decoration: none;
 }
 
+/* ── Home cards ── */
+
+.home-cards {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.home-card {
+  flex: 1 1 120px;
+  border: 1px solid var(--border);
+  padding: 1.6rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text);
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.home-card:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  text-decoration: none;
+}
+
 /* ── Bandcamp ── */
 
 .bandcamp-wrap {
