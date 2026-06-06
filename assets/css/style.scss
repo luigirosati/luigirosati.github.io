@@ -121,6 +121,25 @@ main {
   margin-top: 0.9rem;
 }
 
+.social-links {
+  margin-top: 1.2rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.social-links a:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
 /* ── Bandcamp ── */
 
 .bandcamp-wrap {
