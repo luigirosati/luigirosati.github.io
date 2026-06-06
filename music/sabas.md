@@ -1,13 +1,13 @@
 ---
 layout: default
-title: sabas
+title: Sabas
 ---
 
-<p class="page-title"><a href="/music">music</a> / sabas</p>
+<p class="page-title"><a href="/music">music</a> / Sabas</p>
 
 <div class="project-text">
-  <p>Sabas is an Italian trio from Sora. Their music moves between alternative rock, Italian songwriting tradition and experimental sounds, alternating open and driven rhythms, with room for harmonic exploration and improvisation. Lyrics are rooted in human experience.</p> 
-  </p>"Terre Emerse" is their debut album, released on Dischi Obliqui.</p>
+  <p>Sabas is an Italian trio from Sora. Their music moves between alternative rock, Italian songwriting tradition and experimental sounds, alternating open and driven rhythms, with room for harmonic exploration and improvisation. Lyrics are rooted in human experience.
+  "Terre Emerse" is their debut album, released on Dischi Obliqui.</p> 
 </div>
 
 <div class="project-player">
@@ -15,9 +15,9 @@ title: sabas
 </div>
 
 <div class="project-links">
-  <a href="https://www.instagram.com/sabas_arte/" target="_blank" rel="noopener">instagram</a>
+  <a href="https://www.instagram.com/Sabas_arte/" target="_blank" rel="noopener">instagram</a>
   <a href="https://open.spotify.com/intl-it/artist/5oZUvJDf3jEETujLYUYj44?si=rn82i1VwTsGh6ODZ2zje9Q" target="_blank" rel="noopener">spotify</a>
-  <a href="https://music.apple.com/us/artist/sabas/1896652638" target="_blank" rel="noopener">apple music</a>
+  <a href="https://music.apple.com/us/artist/Sabas/1896652638" target="_blank" rel="noopener">apple music</a>
   <a href="https://dischiobliqui.bandcamp.com/album/terre-emerse" target="_blank" rel="noopener">bandcamp</a>
-  <a href="https://linktr.ee/sabas.universe" target="_blank" rel="noopener">linktree</a>
+  <a href="https://linktr.ee/Sabas.universe" target="_blank" rel="noopener">linktree</a>
 </div>
