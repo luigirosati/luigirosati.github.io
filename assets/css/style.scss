@@ -243,13 +243,17 @@ main {
 .project-player iframe {
   display: block;
   border: 0;
+  flex-shrink: 0;
 }
 
 .project-player img {
   display: block;
-  max-width: 350px;
-  width: 100%;
+  flex: 1 1 200px;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
   border-radius: 4px;
+  object-fit: cover;
 }
 
 .project-links {
