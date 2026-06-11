@@ -40,15 +40,15 @@ title: Research
   <ul class="research-list">
     <li class="research-list__item">
       <p class="research-list__title">Bernstein Conference</p>
-      <p class="research-list__meta">Frankfurt am Main, 2025</p>
+      <p class="research-list__meta">Frankfurt am Main, 2025 - Poster presentation</p>
     </li>
     <li class="research-list__item">
       <p class="research-list__title">47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society</p>
-      <p class="research-list__meta">Copenhagen, 2025</p>
+      <p class="research-list__meta">Copenhagen, 2025 - Oral presentation</p>
     </li>
     <li class="research-list__item">
       <p class="research-list__title">The Fifth International Convention on the Mathematics Of Neuroscience and AI</p>
-      <p class="research-list__meta">Rome, 2024</p>
+      <p class="research-list__meta">Rome, 2024 - Poster presentation</p>
     </li>
   </ul>
 </div>
@@ -66,7 +66,7 @@ title: Research
     </li>
     <li class="research-list__item">
       <p class="research-list__title">9th Neuroengineering Summer School "M. Grattarola"</p>
-      <p class="research-list__meta">Genova, 2024</p>
+      <p class="research-list__meta">Genova, 2024  - Poster presentation</p>
     </li>
   </ul>
 </div>
