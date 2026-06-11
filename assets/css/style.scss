@@ -259,6 +259,84 @@ main {
   color: var(--accent);
 }
 
+/* ── Research page ── */
+
+.research-intro {
+  margin-bottom: 2.4rem;
+}
+
+.research-name {
+  font-size: 1.1rem;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.6rem;
+}
+
+.research-affiliation,
+.research-interests {
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.research-section {
+  margin-bottom: 2.4rem;
+}
+
+.research-section__title {
+  font-size: 0.9rem;
+  font-weight: normal;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.6rem;
+}
+
+.research-list {
+  list-style: none;
+}
+
+.research-list__item {
+  padding: 0.8rem 0;
+}
+
+.research-list__item + .research-list__item {
+  border-top: 1px solid var(--border);
+}
+
+.research-list__title {
+  font-size: 0.95rem;
+}
+
+.research-list__authors {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 0.3rem;
+}
+
+.research-list__meta {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 0.2rem;
+}
+
+.research-links {
+  display: flex;
+  gap: 1.4rem;
+  flex-wrap: wrap;
+  font-size: 0.9rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1.2rem;
+}
+
+.research-links a {
+  color: var(--muted);
+}
+
+.research-links a:hover {
+  color: var(--accent);
+}
+
 /* ── Footer ── */
 
 footer {
