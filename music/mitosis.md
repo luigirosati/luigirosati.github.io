@@ -11,6 +11,7 @@ title: mitosi(s)
 
 <div class="project-player">
   <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1160333141/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://mitosi-s.bandcamp.com/album/embryo">EMBRYO by mitosi(s)</a></iframe>
+  <img src="/assets/img/Live_RV.jpg" alt="mitosi(s) live at RV">
 </div>
 
 <div class="project-links">
