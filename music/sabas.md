@@ -7,7 +7,7 @@ title: Sabas
 
 <div class="project-text">
   <p>Sabas is an Italian trio from Sora. Their music moves between alternative rock, Italian songwriting tradition and experimental sounds, alternating open and driven rhythms, with room for harmonic exploration and improvisation. Lyrics are rooted in human experience.
-  "Terre Emerse" is their debut album, released on Dischi Obliqui.</p> 
+  "Terre Emerse" is their debut album, released on <a href="https://www.dischiobliqui.com/" target="_blank" rel="noopener">Dischi Obliqui</a>.</p> 
 </div>
 
 <div class="project-player">
