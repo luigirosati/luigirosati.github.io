@@ -7,7 +7,7 @@ title: Home
   <img class="profile-photo" src="/assets/img/photo.jpg" alt="Luigi Rosati">
   <div class="home-bio">
     <p>Hi, I am Luigi.</p>
-    <p>I am a Ph.D. student in the italian National Ph.D. Program in AI & Health and Life Sciences. I'm interested in bio-inspired AI, neuronal dynamics, plasticity and neuromorphic computing.</p>
+    <p>I am a Ph. D. student in the italian National Ph.D. Program in AI & Health and Life Sciences. I'm interested in bio-inspired AI, neuronal dynamics, plasticity and neuromorphic computing.</p>
   </div>
 </div>
 
