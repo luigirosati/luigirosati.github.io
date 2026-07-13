@@ -15,7 +15,7 @@ title: Research
     <li class="research-list__item">
       <p class="research-list__title">Entropy, Inhibition and Memory in Balanced Spiking Reservoirs</p>
       <p class="research-list__authors"><strong>L Rosati</strong>, N Toschi, A Duggento</p>
-      <p class="research-list__meta">Entropy · <a href="https://https://doi.org/10.3390/e28070784" target="_blank" rel="noopener">[link]</a></p>
+      <p class="research-list__meta">Entropy · <a href="https://doi.org/10.3390/e28070784" target="_blank" rel="noopener">[link]</a></p>
     </li>
     <li class="research-list__item">
       <p class="research-list__title">Structure Discovery in fMRI Time-Series via Dynamic Graph Representation Learning</p>
@@ -44,19 +44,19 @@ title: Research
   <h3 class="research-section__title">conferences</h3>
   <ul class="research-list">
     <li class="research-list__item">
-      <p class="research-list__title">ICML - Workshop on Structured Data for Health</p>
+      <p class="research-list__title"><a href="https://structureddata4health.github.io/index.html" target="_blank" rel="noopener">ICML - Workshop on Structured Data for Health</a></p>
       <p class="research-list__meta">Seoul, 2026 · Poster presentation</p>
     </li>
     <li class="research-list__item">
-      <p class="research-list__title">Bernstein Conference</p>
+      <p class="research-list__title"><a href="https://bernstein-network.de/en/bernstein-conference/" target="_blank" rel="noopener">Bernstein Conference</a></p>
       <p class="research-list__meta">Frankfurt am Main, 2025 · Poster presentation</p>
     </li>
     <li class="research-list__item">
-      <p class="research-list__title">47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society</p>
+      <p class="research-list__title"><a href="https://embc.embs.org" target="_blank" rel="noopener">47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society</a></p>
       <p class="research-list__meta">Copenhagen, 2025 · Oral presentation</p>
     </li>
     <li class="research-list__item">
-      <p class="research-list__title">The Fifth International Convention on the Mathematics Of Neuroscience and AI</p>
+      <p class="research-list__title"><a href="https://www.neuromonster.org/" target="_blank" rel="noopener">The Fifth International Convention on the Mathematics Of Neuroscience and AI</a></p>
       <p class="research-list__meta">Rome, 2024 · Poster presentation</p>
     </li>
   </ul>
