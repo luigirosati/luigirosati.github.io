@@ -82,7 +82,7 @@ title: Research
 
 <div class="research-links">
   <a href="https://fismed.uniroma2.it/staff/luigi-rosati/" target="_blank" rel="noopener">lab</a>
-  <a href="https://scholar.google.com/citations?user=EQeGSKMAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener">google scholar</a>
+  <a href="https://scholar.google.com/citations?user=EQeGSKMAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener">scholar</a>
   <a href="https://github.com/luigirosati" target="_blank" rel="noopener">github</a>
   <a href="https://orcid.org/0009-0000-7585-4105" target="_blank" rel="noopener">orcid</a>
 </div>
