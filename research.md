@@ -13,6 +13,11 @@ title: Research
   <h3 class="research-section__title">publications</h3>
   <ul class="research-list">
     <li class="research-list__item">
+      <p class="research-list__title">Entropy, Inhibition and Memory in Balanced Spiking Reservoirs</p>
+      <p class="research-list__authors"><strong>L Rosati</strong>, N Toschi, A Duggento</p>
+      <p class="research-list__meta">Entropy · <a href="https://https://doi.org/10.3390/e28070784" target="_blank" rel="noopener">[link]</a></p>
+    </li>
+    <li class="research-list__item">
       <p class="research-list__title">Structure Discovery in fMRI Time-Series via Dynamic Graph Representation Learning</p>
       <p class="research-list__authors"><strong>L Rosati</strong>, M Ciferri, M Kashif, D Naddeo, N Toschi</p>
       <p class="research-list__meta">ICML 2026 Workshop on Structured Data for Health · <a href="https://openreview.net/forum?id=g4azlYmEIU" target="_blank" rel="noopener">[link]</a></p>
@@ -38,6 +43,10 @@ title: Research
 <div class="research-section">
   <h3 class="research-section__title">conferences</h3>
   <ul class="research-list">
+    <li class="research-list__item">
+      <p class="research-list__title">ICML - Workshop on Structured Data for Health</p>
+      <p class="research-list__meta">Seoul, 2026 · Poster presentation</p>
+    </li>
     <li class="research-list__item">
       <p class="research-list__title">Bernstein Conference</p>
       <p class="research-list__meta">Frankfurt am Main, 2025 · Poster presentation</p>
