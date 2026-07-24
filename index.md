@@ -15,6 +15,6 @@ title: Home
   <a class="home-card" href="/research">research</a>
   <a class="home-card" href="/teaching">teaching</a>
   <a class="home-card" href="/music">music</a>
-  <a class="home-card" href="/files/cv.pdf" target="_blank" rel="noopener">cv</a>
+  <a class="home-card" href="/cv">cv</a>
   <a class="home-card" href="https://www.instagram.com/sconchigliosozeta" target="_blank" rel="noopener">instagram</a>
 </div>
