@@ -15,7 +15,7 @@ title: Research
     <li class="research-list__item">
       <p class="research-list__title"><a href="https://doi.org/10.3390/e28070784" target="_blank" rel="noopener">Entropy, Inhibition and Memory in Balanced Spiking Reservoirs</a></p>
       <p class="research-list__authors"><strong>L Rosati</strong>, N Toschi, A Duggento</p>
-      <p class="research-list__meta">Entropy</p>
+      <p class="research-list__meta">Entropy 2026, 28(7), 784</p>
     </li>
     <li class="research-list__item">
       <p class="research-list__title"><a href="https://openreview.net/forum?id=g4azlYmEIU" target="_blank" rel="noopener">Structure Discovery in fMRI Time-Series via Dynamic Graph Representation Learning</a></p>
