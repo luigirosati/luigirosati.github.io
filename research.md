@@ -44,19 +44,19 @@ title: Research
   <h3 class="research-section__title">conferences</h3>
   <ul class="research-list">
     <li class="research-list__item">
-      <p class="research-list__title"><a href="https://icml.cc/" target="_blank" rel="noopener">Forty-Third International Conference on Machine Learning</a></p>
+      <p class="research-list__title"><a href="https://icml.cc/" target="_blank" rel="noopener">Forty-Third International Conference on Machine Learning</a> 🇰🇷</p>
       <p class="research-list__meta">Seoul, 2026 · Poster presentation at Structured Data for Health Workshop</p>
     </li>
     <li class="research-list__item">
-      <p class="research-list__title"><a href="https://bernstein-network.de/en/bernstein-conference/" target="_blank" rel="noopener">Bernstein Conference</a></p>
+      <p class="research-list__title"><a href="https://bernstein-network.de/en/bernstein-conference/" target="_blank" rel="noopener">Bernstein Conference</a> 🇩🇪</p>
       <p class="research-list__meta">Frankfurt am Main, 2025 · Poster presentation</p>
     </li>
     <li class="research-list__item">
-      <p class="research-list__title"><a href="https://embc.embs.org" target="_blank" rel="noopener">47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society</a></p>
+      <p class="research-list__title"><a href="https://embc.embs.org" target="_blank" rel="noopener">47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society</a> 🇩🇰</p>
       <p class="research-list__meta">Copenhagen, 2025 · Oral presentation</p>
     </li>
     <li class="research-list__item">
-      <p class="research-list__title"><a href="https://www.neuromonster.org/" target="_blank" rel="noopener">The Fifth International Convention on the Mathematics Of Neuroscience and AI</a></p>
+      <p class="research-list__title"><a href="https://www.neuromonster.org/" target="_blank" rel="noopener">The Fifth International Convention on the Mathematics Of Neuroscience and AI</a> 🇮🇹</p>
       <p class="research-list__meta">Rome, 2024 · Poster presentation</p>
     </li>
   </ul>
@@ -78,11 +78,4 @@ title: Research
       <p class="research-list__meta">Genova, 2024 · Poster presentation</p>
     </li>
   </ul>
-</div>
-
-<div class="research-links">
-  <a href="https://fismed.uniroma2.it/staff/luigi-rosati/" target="_blank" rel="noopener">lab</a>
-  <a href="https://scholar.google.com/citations?user=EQeGSKMAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener">scholar</a>
-  <a href="https://github.com/luigirosati" target="_blank" rel="noopener">github</a>
-  <a href="https://orcid.org/0009-0000-7585-4105" target="_blank" rel="noopener">orcid</a>
 </div>
