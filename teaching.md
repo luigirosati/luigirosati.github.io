@@ -8,7 +8,7 @@ title: Teaching
   <ul class="research-list">
     <li class="research-list__item">
       <p class="research-list__title">Adjunct Professor</p>
-      <p class="research-list__authors">Lecturer in Pyisics for Medicine and Dental Medicine.</p>
+      <p class="research-list__authors">Lecturer in Physics for Medicine and Dental Medicine.</p>
       <p class="research-list__meta">Catholic University “Our Lady of Good Counsel” · 2025-2026</p>
     </li>
     <li class="research-list__item">
